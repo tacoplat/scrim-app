@@ -1,7 +1,7 @@
 import Image from "next/image";
 import styles from "./page.module.scss";
 
-export default function Home() {
+export default function MatchPage() {
   return (
     <main className={styles.main}>
       <div className={styles.matchContainer}>
